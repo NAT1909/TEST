@@ -1,0 +1,146 @@
+
+body{
+	background-color: #cccccc;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-radius: 8px;
+}
+.container{
+	background-color: #ffffff;
+	padding-left: 0px;
+	padding-right: 0px;
+	border-radius: 10px;
+	border: solid 1px #ff4d4d;
+}
+.alert{
+	width: 90%;
+	text-align: center;
+	margin:auto;
+}
+form{
+	padding: 20px;
+	text-align: center;
+	width: 70%;
+	margin: auto;
+	
+}
+form input{
+	height: 50px;
+	text-align: center;
+}
+.form-control{
+	border-radius: 22px;
+}
+form label{
+	font-weight: bold;
+	font-size: 30px;
+}
+.btn{
+	margin-top: 8px;
+	width: 90%;
+	height: 50px;
+}
+.welcome{
+	padding: 20px;
+	text-align: center;
+}
+.post{
+	width: 100%;	
+	border-radius: 10px;
+	background-color: #ffffff;
+	height: auto;
+	margin-bottom: 10px;
+	padding: 10px 20px;
+}
+.post p{
+	font-size: 20px;
+}
+.nav{
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	width: 100%;
+	padding: 20px;
+	background-color: #ff4d4d;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.nav-link{
+	color: #ffffff;
+}
+
+.friend{
+	text-align: center;
+	clear: both;
+}
+.friend h4{
+	padding-bottom: 20px;
+}
+.friend img{
+	padding-top: 10px;
+	width: 180px;
+	margin: auto;
+
+}
+
+.blog{
+	padding-left: 3%;
+	width: 66%;
+	float: left;
+	margin-bottom: 20px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border: solid 1px #dae1ed;
+}
+.right-main{
+	
+	border-radius: 10px;
+	margin-left: 1%;
+	width: 33%;
+	float: left;
+	border: solid 1px #dae1ed;
+	height: auto;
+	margin-bottom: 20px;
+}
+.footer{
+	
+	width: 100%;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	margin-top: 20px;
+	text-align: center;
+	padding: 30px;
+	background-color: #ff4d4d;
+	color: #ffffff;
+	font-size: 20px;
+	clear: both;
+}
+.show-post{
+	margin-top: 20px;
+	width: 100%;	
+	border-radius: 10px;
+	background-color: #ffffff;
+	height: auto;
+	border: solid 1px #dae1ed;
+	margin-bottom: 10px;
+	padding: 10px 20px;
+	padding-left: 3%;
+}
+h2{
+	color: #10a321;
+	text-decoration: underline;
+}
+h1{
+	color: #0050ff;
+}
+.show-post-singlePost{
+	margin-top: 20px;
+	width: 100%;	
+	border-radius: 10px;
+	background-color: #ffffff;
+	height: auto;
+	border: solid 1px #dae1ed;
+	margin-bottom: 10px;
+	padding: 10px 20px;
+	text-align: center;
+	font-size: 30px;
+}
